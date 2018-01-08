@@ -29,11 +29,14 @@
         <activity android:name=".activity.Page4" />
         <activity android:name=".activity.Page5" />
         <activity android:name=".activity.Page6" />
-        <activity android:name=".activity.Page7" />
         <activity android:name=".activity.VerificationActivity" />
         <activity android:name=".activity.Department" />
         <activity android:name=".activity.AdminLogin" />
         <activity android:name=".activity.DepartMenu" />
+        <activity
+            android:name=".activity.NavigationDrawer"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
