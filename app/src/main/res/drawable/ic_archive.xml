@@ -1,0 +1,30 @@
+<vector android:height="48dp" android:viewportHeight="512.0"
+    android:viewportWidth="512.0" android:width="48dp"
+    xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M256,256m-256,0a256,256 0,1 1,512 0a256,256 0,1 1,-512 0">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="262144.0" android:endY="131072.0"
+                android:startX="0.0019456" android:startY="131072.0" android:type="linear">
+                <item android:color="#FF8DC63F" android:offset="0.0"/>
+                <item android:color="#FF76B83F" android:offset="1.0"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M256,469.3c-117.6,0 -213.3,-95.7 -213.3,-213.3c0,-117.6 95.7,-213.3 213.3,-213.3c117.6,0 213.3,95.7 213.3,213.3C469.3,373.6 373.6,469.3 256,469.3z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="240298.671872"
+                android:endY="131072.2656256"
+                android:startX="21845.3339648"
+                android:startY="131072.2656256" android:type="linear">
+                <item android:color="#FF76B83F" android:offset="0.0"/>
+                <item android:color="#FF8DC63F" android:offset="1.0"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillAlpha="0.3"
+        android:pathData="M259.8,176.4l-30.8,-32.4l-85,0l0,66.4l240,0l0,-34.1z" android:strokeAlpha="0.3"/>
+    <path android:fillAlpha="0.3"
+        android:pathData="M264,220.4v10h15.2v10h-15.2v10h15.2v10h-15.2v10h15.2v10h-15.2v10h-15.2v-10h15.2v-10h-15.2v-10h15.2v-10h-15.2v-10h15.2v-10h-15.2v-10H144v81.3v82.2h120h120V301.8v-81.3H279.2H264zM279,324.3c0,8.3 -6.7,15 -15,15c-8.3,0 -15,-6.7 -15,-15v-27.1h30V324.3z" android:strokeAlpha="0.3"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M251.8,168.4l-30.8,-32.4l-85,0l0,66.4l240,0l0,-34.1z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M256,212.4v10h15.2v10h-15.2v10h15.2v10h-15.2v10h15.2v10h-15.2v10h-15.2v-10h15.2v-10h-15.2v-10h15.2v-10h-15.2v-10h15.2v-10h-15.2v-10H136v81.3v82.2h120h120V293.8v-81.3H271.2H256zM271,316.3c0,8.3 -6.7,15 -15,15c-8.3,0 -15,-6.7 -15,-15v-27.1h30V316.3z"/>
+</vector>
